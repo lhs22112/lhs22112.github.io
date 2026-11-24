@@ -26,5 +26,3 @@
 > 
 > [GitHub](https://github.com/lhs22112/Smishing-Detection-Classifier)
 
----
-
