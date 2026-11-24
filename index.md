@@ -1,5 +1,3 @@
-# HyeonSeo Lim
-
 관심 분야: 데이터 분석 / 보안
 
 **[GitHub Profile](https://github.com/lhs22112)**
